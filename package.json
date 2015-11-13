@@ -1,0 +1,19 @@
+{
+  "name": "coderetreat",
+  "version": "1.0.0",
+  "description": "code retreat 2015 exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwadelson/coderetreat.git"
+  },
+  "author": "dave adelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwadelson/coderetreat/issues"
+  },
+  "homepage": "https://github.com/dwadelson/coderetreat#readme"
+}
